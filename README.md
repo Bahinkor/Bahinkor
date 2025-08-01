@@ -1,31 +1,33 @@
-#### Skills:
+### 🚀 Skills
 - 🌲 **JavaScript**
-- 🔑 **TypeScrtpt**
-- ⏳️ **NodeJs**
-- 🧮 **NestJs**
-- 🫁 **ExpressJs**
-- 🏡 **Fastify**
-- 🏡 **MySql**
-- 🏡 **Postgresql**
-- 🏡 **Mongodb**
-- 🏡 **Sqllite**
-- 🏡 **Redis**
-- 🏡 **CI/CD**
-- 🏡 **Git**
-- 🏡 **Socket.io**
-- 🏡 **GeaphQL**
-- 🏡 **gRpc**
-- 🏡 **Microservices**
-- 🏡 **Rabbitmq**
-- 🏡 **Hexagonal/Clean Architecture**
-- 🏡 **Domain driven Design**
-- 🏡 **CQRS**
-- 🏡 **JWT**
-- 🏡 **Nginx**
-- 🏡 **HTML/CSS**
-- 🏡 **NPM/PNPM/Yarn**
+- 🔑 **TypeScript**
+- 🕓 **Node.js**
+- 🧱 **NestJS**
+- 🚂 **ExpressJS**
+- ⚡ **Fastify**
+- 🐬 **MySQL**
+- 🐘 **PostgreSQL**
+- 🍃 **MongoDB**
+- 💾 **SQLite**
+- 🧠 **Redis**
+- 🔁 **CI/CD**
+- 🧬 **Git**
+- 💬 **Socket.io**
+- 🔮 **GraphQL**
+- 📡 **gRPC**
+- 🧩 **Microservices**
+- 🐇 **RabbitMQ**
+- 🧼 **Hexagonal / Clean Architecture**
+- 🧠 **Domain-Driven Design**
+- 🔃 **CQRS**
+- 🛡️ **JWT**
+- 🌐 **Nginx**
+- 🎨 **HTML / CSS**
+- 📦 **NPM / PNPM / Yarn**
 
-#### Socials:
-- 🌐 [**Linkedin**](https://linkedin.com/in/bahinkor)
-- 🌐 [**Telegram**](https://t.me/bahinkor)
-- 🌐 [**Stackoverflow**](https://stackoverflow.com/users/23649905)
+---
+
+### 🌍 Socials
+- 🌐 [**LinkedIn**](https://linkedin.com/in/bahinkor)
+- 💬 [**Telegram**](https://t.me/bahinkor)
+- 🧠 [**Stack Overflow**](https://stackoverflow.com/users/23649905)
